@@ -1,0 +1,18 @@
+[submodule "mobileModule00"]
+	path = mobileModule00
+	url = https://github.com/STC71/42_mobileModule00.git
+[submodule "mobileModule01"]
+	path = mobileModule01
+	url = https://github.com/STC71/42_mobileModule01.git
+[submodule "mobileModule02"]
+	path = mobileModule02
+	url = https://github.com/STC71/42_mobileModule02.git
+[submodule "mobileModule03"]
+	path = mobileModule03
+	url = https://github.com/STC71/42_mobileModule03.git
+[submodule "mobileModule04"]
+	path = mobileModule04
+	url = https://github.com/STC71/42_mobileModule04.git
+[submodule "mobileModule05"]
+	path = mobileModule05
+	url = https://github.com/STC71/42_mobileModule05.git
